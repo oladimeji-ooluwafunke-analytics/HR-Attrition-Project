@@ -70,8 +70,20 @@ This project focuses on analyzing employee attrition using Power BI. The goal is
 ## Dashboard Preview
 The dashboard below provides an interactive overview of key HR attrition metrics, including employee attrition rate, business travel, overtime, distance from work, job satisfaction, education level, job roles, income group, age group, and gender distribution.
 
-![HR Attrition Dashboard](Screenshot 2026-06-28 035151.png)
+### Dashboard 1
+![Dashboard 1](hr%20attrition%20dashboard%20pictures/Screenshot%202026-06-28%20035151.png)
 
+### Dashboard 2
+![Dashboard 2](hr%20attrition%20dashboard%20pictures/Screenshot%202026-06-28%20035215.png)
+
+### Dashboard 3
+![Dashboard 3](hr%20attrition%20dashboard%20pictures/Screenshot%202026-06-28%20035241.png)
+
+### Dashboard 4
+![Dashboard 4](hr%20attrition%20dashboard%20pictures/Screenshot%202026-06-28%20035343.png)
+
+### Dashboard 5
+![Dashboard 5](hr%20attrition%20dashboard%20pictures/Screenshot%202026-06-28%20035406.png)
 ## Conclusion
 This project demonstrates how data visualization can be used to uncover critical workforce insights. By identifying the main drivers of attrition, organizations can take proactive steps to improve employee satisfaction and retention.
 
